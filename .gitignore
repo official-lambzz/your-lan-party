@@ -1,0 +1,9 @@
+build/
+qt_client/build/
+build-*/
+*.db
+received_files/
+*.user
+CMakeLists.txt.user*
+.vscode/
+*.exe
